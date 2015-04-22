@@ -1,0 +1,15 @@
+{
+  "name": "fax",
+  "homepage": "https://github.com/elrumordelaluz/fax",
+  "version": "0.0.5",
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.5",
+    "commit": "ba6ad497554c8b4e5ecb4977b9aafee2a8448dd9"
+  },
+  "_source": "https://github.com/elrumordelaluz/fax.git",
+  "_target": "~0.0.5",
+  "_originalSource": "https://github.com/elrumordelaluz/fax.git",
+  "_direct": true
+}

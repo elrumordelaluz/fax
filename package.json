@@ -1,0 +1,27 @@
+{
+  "name": "fax.js",
+  "version": "0.0.5",
+  "description": "Transform elements to Objects o JSON and viceversa. Also clone it. Working on manipulate it.",
+  "author": "@elrumordelaluz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/elrumordelaluz/fax.git"
+  },
+  "homepage": "https://github.com/elrumordelaluz/fax",
+  "devDependencies": {
+    "gulp": "~3.7.0",
+    "gulp-uglify": "~0.3.0",
+    "gulp-rename": "~1.1.0",
+    "gulp-clean": "^0.2.4",
+    "gulp-plumber": "~0.6.2",
+    "gulp-header": "^1.0.2",
+    "gulp-jshint": "^1.6.1",
+    "jshint-stylish": "^0.2.0",
+    "gulp-karma": "0.0.4",
+    "karma": "^0.12.16",
+    "karma-jasmine": "~0.2.0",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-spec-reporter": "0.0.13"
+  }
+}
