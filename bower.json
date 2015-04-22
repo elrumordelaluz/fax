@@ -6,7 +6,7 @@
   "_resolution": {
     "type": "version",
     "tag": "v0.0.5",
-    "commit": "ba6ad497554c8b4e5ecb4977b9aafee2a8448dd9"
+    "commit": "20a5d8625332380213b8c3c4551dcec5a433ee93"
   },
   "_source": "https://github.com/elrumordelaluz/fax.git",
   "_target": "~0.0.5",
